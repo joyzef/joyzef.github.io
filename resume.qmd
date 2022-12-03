@@ -1,0 +1,9 @@
+---
+title: "Resume"
+---
+
+Hello, my name is Joseph Silveira. 
+This is my resume
+ * Channel Islands Boating Center as a Sailing Instructor
+ * burger king as a cook
+ * wellspring Charitable gardens as a farm hand

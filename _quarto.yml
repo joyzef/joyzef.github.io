@@ -4,13 +4,14 @@ project:
   
 
 website:
-  title: "About Me"
+  title: "Joseph Silveira"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - resume.qmd
+      
 format:
   html:
     theme: cosmo
