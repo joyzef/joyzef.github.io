@@ -1,10 +1,9 @@
 ---
 title: "About Me"
-twitter-card:
-  image:"/This PC/Downloads/352image.jpg"
+
 ---
 
-
+![](images/352image.jpg){.preview-image}
 This is about me.
 My name is Joseph Silveira. I was born and raised in the Central Valley.
 I grew up on my dads farm in Atwater before moving to Riverbank.
