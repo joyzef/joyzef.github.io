@@ -4,6 +4,11 @@ title: "Resume"
 
 Hello, my name is Joseph Silveira. 
 This is my resume
- * Channel Islands Boating Center as a Sailing Instructor
- * burger king as a cook
- * wellspring Charitable gardens as a farm hand
+* Education
+    + CSUCI Junior Mechatronics Major(2020-2024)
+    + Central Catholic High School(2016-2020)
+* Internships/Jobs
+    + Channel Islands Boating Center as a Sailing Instructor(2021-)
+    + burger king as a cook(2021)
+    + wellspring Charitable gardens as a farm hand(2020-2021)
+    + Intern for FarmWise Robotics(2018)
