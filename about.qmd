@@ -1,6 +1,9 @@
 ---
 title: "About Me"
+twitter-card:
+  image:"/This PC/Downloads/352image.jpg"
 ---
+
 
 This is about me.
 My name is Joseph Silveira. I was born and raised in the Central Valley.
