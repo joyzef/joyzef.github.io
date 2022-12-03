@@ -7,7 +7,7 @@ editor:
 
 
 Hello, my name is Joseph Silveira. This is my resume
-\\
+
 
 \* Education
 
