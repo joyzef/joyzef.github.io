@@ -4,6 +4,7 @@ project:
   
 
 website:
+  favicon: image_prob.png
   title: "Joseph Silveira"
   navbar:
     left:
@@ -11,6 +12,7 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
+        
       - href: resume.qmd
         text: resume
       
