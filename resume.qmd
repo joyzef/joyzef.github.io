@@ -8,7 +8,6 @@ editor:
 
 Hello, my name is Joseph Silveira. This is my resume
 
-
 \* Education
 
 \+ CSUCI Junior Mechatronics Major(2020-2024)
