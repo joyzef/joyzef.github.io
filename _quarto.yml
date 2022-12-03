@@ -4,7 +4,7 @@ project:
   
 
 website:
-  favicon: image_prob.png
+ 
   title: "Joseph Silveira"
   navbar:
     left:
